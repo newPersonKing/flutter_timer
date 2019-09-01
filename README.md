@@ -1,3 +1,5 @@
-![](E:\company\allModel\updateview\flutter_timer\img\1.png)
-
-![](E:\company\allModel\updateview\flutter_timer\img\2.png)
+<div>
+<img src = 'img/1.png' width=300 height = 600 />
+  <br/>
+  <img src = 'img/2.png' width=300 height = 600 />
+</div>
